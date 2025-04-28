@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.fitnessclub.app-mergeDebugResources-33:/layout/item_workout.xml",
+        "source": "com.example.fitnessclub.app-main-36:/layout/item_workout.xml"
+    },
+    {
+        "merged": "com.example.fitnessclub.app-mergeDebugResources-33:/layout/activity_chat.xml",
+        "source": "com.example.fitnessclub.app-main-36:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.example.fitnessclub.app-mergeDebugResources-33:/layout/activity_user_home.xml",
+        "source": "com.example.fitnessclub.app-main-36:/layout/activity_user_home.xml"
+    },
+    {
+        "merged": "com.example.fitnessclub.app-mergeDebugResources-33:/layout/activity_login.xml",
+        "source": "com.example.fitnessclub.app-main-36:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.fitnessclub.app-mergeDebugResources-33:/layout/item_message.xml",
+        "source": "com.example.fitnessclub.app-main-36:/layout/item_message.xml"
+    },
+    {
+        "merged": "com.example.fitnessclub.app-mergeDebugResources-33:/layout/activity_questionnaire.xml",
+        "source": "com.example.fitnessclub.app-main-36:/layout/activity_questionnaire.xml"
+    },
+    {
+        "merged": "com.example.fitnessclub.app-mergeDebugResources-33:/layout/activity_trainer_home.xml",
+        "source": "com.example.fitnessclub.app-main-36:/layout/activity_trainer_home.xml"
+    }
+]

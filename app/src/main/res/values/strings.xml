@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Fitness Club</string>
+    
+    <!-- Login Screen -->
+    <string name="login_title">Welcome to Fitness Club</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="login_error">Invalid email or password</string>
+    
+    <!-- User Home -->
+    <string name="user_home_title">My Workouts</string>
+    <string name="chat_with_trainer">Chat with Trainer</string>
+    
+    <!-- Trainer Home -->
+    <string name="trainer_home_title">Client Workouts</string>
+    <string name="chat_with_user">Chat with User</string>
+    
+    <!-- Chat -->
+    <string name="chat_title">Chat</string>
+    <string name="type_message">Type a message...</string>
+    <string name="send">Send</string>
+    
+    <!-- Questionnaire -->
+    <string name="questionnaire_title">Fitness Profile</string>
+    <string name="fitness_goal">What is your fitness goal?</string>
+    <string name="fitness_level">What is your fitness level?</string>
+    <string name="workout_time">How much time can you dedicate to workouts?</string>
+    <string name="submit">Submit</string>
+    <string name="skip">Skip</string>
+</resources> 
