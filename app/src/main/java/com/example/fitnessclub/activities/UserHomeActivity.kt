@@ -1,5 +1,5 @@
 package com.example.fitnessclub.activities
-
+import com.example.fitnessclub.adapters.WorkoutAdapter
 import android.content.Intent
 import android.os.Bundle
 import android.view.MenuItem

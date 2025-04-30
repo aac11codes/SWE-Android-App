@@ -1,4 +1,5 @@
-package com.example.myapplication
+package com.example.fitnessclub.activities
+
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge

@@ -1,4 +1,5 @@
 package com.example.fitnessclub.activities
+import com.example.fitnessclub.adapters.ChatAdapter
 
 import android.os.Bundle
 import android.view.MenuItem
