@@ -101,10 +101,9 @@ class UserManager {
 
     /**
      * Simulates trainer performance summary.
-     * needs for for full implimentation
      */
     fun reviewTrainerPerformance(): String {
-        // For now, just hardcoded ratings from DummyData
+        // hardcoded ratings from DummyData
         return "Trainer Performance:\n- Coach Tom: 4.8★\n- Trainer Jane: 4.6★"
     }
 }

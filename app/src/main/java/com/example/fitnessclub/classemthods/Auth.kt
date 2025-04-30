@@ -41,7 +41,6 @@ class Auth {
 
     /**
      * Prompts for credentials and authenticates the user.
-     * (Simulated logic for demo; typically would use UI inputs)
      */
     fun authenticate(email: String, password: String): Boolean {
         return login(email, password)

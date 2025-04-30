@@ -39,7 +39,7 @@ class MessageManager {
      * Retrieves and displays the chat history for a conversation.
      */
     fun getChatHistory(): List<Pair<String, String>> {
-        // In a real app: fetch from local DB or remote API
+        // In a real app: fetch from remote API
         Log.d("MessageManager", "Retrieving chat history...")
         return messageLog
     }
