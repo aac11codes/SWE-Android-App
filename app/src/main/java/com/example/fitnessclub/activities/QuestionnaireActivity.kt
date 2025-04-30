@@ -59,7 +59,7 @@ class QuestionnaireActivity : AppCompatActivity() {
 
     private fun setupButtons() {
         binding.submitButton.setOnClickListener {
-            // In a real app, we would save the questionnaire data here
+            //  save the questionnaire data here
             navigateToHomeScreen()
         }
 
